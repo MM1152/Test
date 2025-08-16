@@ -1,0 +1,10 @@
+$ Title Message
+$ <type>(<scope>) - [#issueNumber-]: <subject>
+$ ex) feat - #123: 로그인 기능 추가
+$ Subject 50 characters $$$$$$$$$$$$$$$$$ -> |
+
+$ 한 줄 공백. subject과 body 구분
+
+$ Body Message (Optional) 
+$$$$$$$$ Body 72 characters $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ -> |
+
